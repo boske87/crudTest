@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "classmap": [
+      "src/User/User.php",
+      "src/repository/UserVacationRepository.php",
+      "src/repository/UserVacationInterface.php",
+      "src/Vacation/UserVacation.php",
+      "src/Traits/OperationTrait.php"
+    ]
+  }
+}
